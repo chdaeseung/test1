@@ -1,1 +1,1 @@
-GOAL: Master Git basics
+GOAL: Master Git branching
